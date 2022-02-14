@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rif-7
-- 👀 I’m interested in interesting stuff
-- 🌱 I’m currently learning interesting stuff
-- 💞️ I’m looking to collaborate on interesting stuff
+- 👋 Hi, I’m Rifan
+- 👀 I’m interested in Web development and Machine Learning
+- 🌱 I’m currently learning React and NodeJs
+- 💞️ I’m looking to collaborate on full stack websites
 - 📫 How to reach me: rifanna70@gmail.com
 
 <!---
