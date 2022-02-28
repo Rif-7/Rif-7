@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rifan
-- 👀 I’m interested in Web development and Machine Learning
+- 👀 I’m interested in Web development and Blockchain
 - 🌱 I’m currently learning React and NodeJs
 - 💞️ I’m looking to collaborate on full stack websites
 - 📫 How to reach me: rifanna70@gmail.com
