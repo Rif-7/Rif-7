@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rifan
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJS and ExpressJS
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on full stack websites
 - 📫 How to reach me: rifanna70@gmail.com
 
